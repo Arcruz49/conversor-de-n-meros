@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\decimal to binary\\decimal to binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|solutionrelative:decimal to binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\decimal to binary\\decimal to binary\\retorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|solutionrelative:decimal to binary\\retorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\decimal to binary\\decimal to binary\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|solutionrelative:decimal to binary\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\decimal to binary\\decimal to binary\\conversorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|solutionrelative:decimal to binary\\conversorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\decimal to binary\\decimal to binary\\conversorbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|solutionrelative:decimal to binary\\conversorbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\decimal to binary\\decimal to binary\\iconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764D165-5F47-41C1-B491-B060CE53ECC9}|decimal to binary\\decimal to binary.csproj|solutionrelative:decimal to binary\\iconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\Program.cs",
+              "RelativeDocumentMoniker": "decimal to binary\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\Program.cs",
+              "RelativeToolTip": "decimal to binary\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:35:20.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retorno.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\Retorno.cs",
+              "RelativeDocumentMoniker": "decimal to binary\\Retorno.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\Retorno.cs",
+              "RelativeToolTip": "decimal to binary\\Retorno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:46:14.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\Util.cs",
+              "RelativeDocumentMoniker": "decimal to binary\\Util.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\Util.cs",
+              "RelativeToolTip": "decimal to binary\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:36:40.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\ConversorFactory.cs",
+              "RelativeDocumentMoniker": "decimal to binary\\ConversorFactory.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\ConversorFactory.cs",
+              "RelativeToolTip": "decimal to binary\\ConversorFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:56:46.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversorBinario.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\ConversorBinario.cs",
+              "RelativeDocumentMoniker": "decimal to binary\\ConversorBinario.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\ConversorBinario.cs",
+              "RelativeToolTip": "decimal to binary\\ConversorBinario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:46:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IConversor.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\IConversor.cs",
+              "RelativeDocumentMoniker": "decimal to binary\\IConversor.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\decimal to binary\\decimal to binary\\IConversor.cs",
+              "RelativeToolTip": "decimal to binary\\IConversor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:39:42.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

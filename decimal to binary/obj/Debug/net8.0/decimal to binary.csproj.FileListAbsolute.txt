@@ -1,0 +1,14 @@
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\bin\Debug\net8.0\decimal to binary.exe
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\bin\Debug\net8.0\decimal to binary.deps.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\bin\Debug\net8.0\decimal to binary.runtimeconfig.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\bin\Debug\net8.0\decimal to binary.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\bin\Debug\net8.0\decimal to binary.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.AssemblyInfoInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.AssemblyInfo.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\refint\decimal to binary.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\decimal to binary.genruntimeconfig.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\decimal to binary\decimal to binary\obj\Debug\net8.0\ref\decimal to binary.dll
